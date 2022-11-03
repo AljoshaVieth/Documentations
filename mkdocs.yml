@@ -6,7 +6,7 @@ site_author: Aljosha
 site_dir: /home/users/aljosha/www/docs
 
 # Repoinformationen
-repo_name: CraftTopia/wiki
+repo_name: AljoshaVieth/Documentations
 repo_url: 'https://github.com/AljoshaVieth/Documentations'
 edit_uri: 'blob/main/docs/'
 edit_uri_template: '-/sse/master/docs%2F{path!q}'
